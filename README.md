@@ -15,6 +15,19 @@
 - 📫 How to reach me **negi.sh@husky.neu.edu**
 - 👨‍🎓 Book a mentoring call https://topmate.io/shivam_negi_data
 
+### WorkEx
+
+🚀 Currently, I serve as a Staff Data Scientist at [Walmart Claim Services](https://www.linkedin.com/company/walmart-claims), leading the charge in integrating GenAI and data science methodologies to elevate our organizational landscape. My role involves orchestrating the multi-cloud deployment, auto-monitoring, and optimization of advanced AI/ML models, including applications of Large Language Models (LLMs)- (GPT4,LLama, FlanT5 etc) in projects spanning topic modeling, Retrieval Augmented Generation (RAG), summarization, risk detection, named entity recognition, prompt engineering. 🤖
+
+During my tenure at Amazon, I played a pivotal role in constructing end-to-end machine learning models tailored for supply chain optimization. Additionally, I led the development of analytical infrastructure for key Amazon ventures like [Amazon Prime](https://www.amazon.com/amazonprime) and [Amazon Fresh](https://www.amazon.com/fmc/storefront?almBrandId=QW1hem9uIEZyZXNo), leveraging [AWS cloud services](https://aws.amazon.com/?nc2=h_lg) 📊. My focus extended to meticulously tracking over 100 KPIs, operating within a startup-like environment that demanded agile thinking 🚀 and rapid adaptation to evolving challenges!
+
+Moreover, I spearheaded the implementation of multiple event-driven pipelines leveraging AWS Lambda, SageMaker, S3, and other key services 🛠️. This approach enabled seamless data processing and model deployment, driving efficiency and innovation within our analytics ecosystem.
+
+🎓 With a Masters in Information Systems from Northeastern University, Boston, and a Bachelors from VIT University, Vellore, I engaged in impactful United Nations Research Projects at Northeastern. Employing advanced data science and statistical techniques, I analyzed migration patterns in Eastern Europe, using geolocation and macroeconomic data to inform public policy decisions.
+
+Feel welcome to connect with me on [LinkedIn](https://www.linkedin.com/in/shivamnegi/) for the latest updates on my AI learning materials!
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shivam_negi_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivam_negi_ai" height="30" width="40" /></a>

@@ -9,11 +9,11 @@
 
 💭 My objective is to actively engage in mentoring startups, guiding them through the intricacies of AI implementation for the public good. I aspire to leverage cutting-edge AI technologies to develop impactful solutions that address complex societal issues and streamline everyday experiences for individuals globally. By harnessing the power of artificial intelligence, I seek to catalyze positive change and contribute to the advancement of society in meaningful and tangible ways.
 
-👯 With over 100 mentoring sessions on GenAI completed, I'm deeply engaged in Gen AI and Deep Learning research. Let's collaborate! Feel free to message me at [email](mailto:negi.sh@husky.neu.edu) for research opportunities.
+👯 With over 100+ mentoring sessions on Data Science and AI, I'm also deeply engaged in Gen AI and Deep Learning research. Let's collaborate! Feel free to message me at [email](mailto:negi.sh@husky.neu.edu) for research opportunities.
 
 - 📝 I regularly write articles on [https://medium.com/@shivamnegi92](https://medium.com/@shivamnegi92)
-
 - 📫 How to reach me **negi.sh@husky.neu.edu**
+- Book a mentoring call https://topmate.io/shivam_negi_data
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

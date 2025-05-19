@@ -14,6 +14,7 @@
 - 📝 I regularly write articles on [https://medium.com/@shivamnegi92](https://medium.com/@shivamnegi92)
 - 📫 How to reach me **negi.sh@husky.neu.edu**
 - 👨‍🎓 Book a mentoring call https://topmate.io/shivam_negi_data
+- Substack [Substack](https://shivamnegidata.substack.com/)
 
 ### WorkEx
 

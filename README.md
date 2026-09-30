@@ -28,6 +28,37 @@
 
 Feel welcome to connect with me on [LinkedIn](https://www.linkedin.com/in/shivamnegi/) for the latest updates on my AI learning materials!
 
+### Papers & Research
+
+| Repo | Description |
+|---|---|
+| [voice-agent-eval-corpus](https://github.com/shivamnegi92/voice-agent-eval-corpus) | Companion repo to *Evaluating Real-Time Voice Agents* (arXiv:[2609.30798](https://arxiv.org/abs/2609.30798)): a verified 41-source corpus and TRG, a minimum reporting standard for voice agent evaluation, with a live [demo](https://huggingface.co/spaces/shivamnegi92/trg-voice-agent-eval) |
+| [tinymorph](https://github.com/shivamnegi92/tinymorph) | Self-improving training data for small language models via temporal weak-strong curation - your model at epoch 1 becomes the weak oracle, no external APIs needed |
+| [Cancer-Image-Classification-ViT](https://github.com/shivamnegi92/Cancer-Image-Classification-ViT) | Vision Transformer applied to cancer image classification |
+
+### Learning Repos & Curated Resources
+
+| Repo | Description |
+|---|---|
+| [AICave](https://github.com/shivamnegi92/AICave) | Deep learning from scratch: Transformer, Llama, ViT/JEPA implementations plus PyTorch fundamentals notebooks |
+| [GenAI-Playlist](https://github.com/shivamnegi92/GenAI-Playlist) | Fundamental GenAI projects built from scratch |
+| [RAG_END_TO_END](https://github.com/shivamnegi92/RAG_END_TO_END) | End-to-end RAG variations: chatbots, agentic RAG, Graph RAG |
+| [FastAI_Pytorch](https://github.com/shivamnegi92/FastAI_Pytorch) | fastai and PyTorch learning notebooks |
+| [awesome-entity-extraction](https://github.com/shivamnegi92/awesome-entity-extraction) | Curated, CI-verified list of LLM-era entity, relation, and structured-data extraction tools |
+| [awesome-multimodal-extraction](https://github.com/shivamnegi92/awesome-multimodal-extraction) | Curated, CI-verified list of multimodal (image + text) extraction tools: VLMs, document AI, OCR |
+| [DeepLearningPlaylist](https://github.com/shivamnegi92/DeepLearningPlaylist) | A knowledge database covering the major types of deep learning models |
+| [Datawarehouse-and-Tableau-PowerBI](https://github.com/shivamnegi92/Datawarehouse-and-Tableau-PowerBI) | Business intelligence reports and dashboards on Tableau and Power BI |
+| [Big-Data-and-Intelligence-Analytics](https://github.com/shivamnegi92/Big-Data-and-Intelligence-Analytics) | IBM HR Analytics employee attrition analysis with Decision Trees and Keras |
+| [LSTM-RNN-over-Bitcoin-Historical-Data](https://github.com/shivamnegi92/LSTM-RNN-over-Bitcoin-Historical-Data) | LSTM-based deep net predicting 30-day Bitcoin value trends |
+| [LSTM-BLSTM-based-Image-Caption-Generator-leveraging-Inception-V3](https://github.com/shivamnegi92/LSTM-BLSTM-based-Image-Caption-Generator-leveraging-Inception-V3) | Image caption generation using LSTM, BLSTM, CNN, and InceptionV3 |
+| [SentimentPredictionML](https://github.com/shivamnegi92/SentimentPredictionML) | Sentiment prediction with classical ML models |
+| [UC-Berkeley-CS188-Intro-to-AI--Project-1-Search-in-Pacman](https://github.com/shivamnegi92/UC-Berkeley-CS188-Intro-to-AI--Project-1-Search-in-Pacman) | Berkeley CS188 Intro to AI: search algorithms implemented in Pacman |
+| [Deep-learning-Keras-Model-over-Semeion-Image-Data](https://github.com/shivamnegi92/Deep-learning-Keras-Model-over-Semeion-Image-Data) | Keras deep net trained on handwritten digit image data |
+| [Prudential-Life-Insurance-Assessment--Machine-Learning](https://github.com/shivamnegi92/Prudential-Life-Insurance-Assessment--Machine-Learning) | Predictive risk-classification model, classical ML approach |
+| [Prudential-Life-Insurance-Assessment--Neural-Net](https://github.com/shivamnegi92/Prudential-Life-Insurance-Assessment--Neural-Net) | Same risk-classification problem, neural net approach |
+| [World-Development-Indicator-SouthAsianCountries](https://github.com/shivamnegi92/World-Development-Indicator-SouthAsianCountries) | Exploratory data analysis on development indicators across South Asian countries |
+
+Full activity: [github.com/shivamnegi92?tab=repositories](https://github.com/shivamnegi92?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

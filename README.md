@@ -1,62 +1,77 @@
-## Shivam Negi
+<h1 align="center">Hi 👋, I'm Shivam Negi</h1>
+<h3 align="center">A passionate Data Scientist/AI Engineer</h3>
 
-Staff Data Scientist building **open, reproducible tooling for evaluating and extracting with LLMs**:
-benchmarks, reporting standards, and curated, CI-verified tool catalogs.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamnegi92&label=Profile%20views&color=0e75b6&style=flat" alt="shivamnegi92" /> </p>
 
-[Website](https://shivamnegi92.github.io) ·
-[LinkedIn](https://www.linkedin.com/in/shivamnegi/) ·
-[Writing on Medium](https://medium.com/@shivamnegi92) ·
-[AI Core Loop (Substack)](https://shivamnegidata.substack.com/) ·
-[Mentoring](https://topmate.io/shivam_negi_data)
+### About
 
-### Research
+🔭 I possess a strong enthusiasm for Artificial Intelligence, Deep Learning, Machine Learning, and Natural Language Processing. My professional background spans E-commerce, Finance, Supply Chain, and Product domains. My focus revolves around crafting ML/AI solutions from inception to deployment, with a keen interest in end-to-end implementation.
 
-**Evaluating Real-Time Voice Agents**: [arXiv:2609.30798](https://arxiv.org/abs/2609.30798)
-A verified 41-source corpus plus TRG (Timing-Recovery-Grounded), a minimum reporting standard for voice agent evaluation.
-Code and data: [voice-agent-eval-corpus](https://github.com/shivamnegi92/voice-agent-eval-corpus) ·
-[live demo](https://huggingface.co/spaces/shivamnegi92/trg-voice-agent-eval)
+💭 My objective is to actively engage in mentoring startups, guiding them through the intricacies of AI implementation for the public good. I aspire to leverage cutting-edge AI technologies to develop impactful solutions that address complex societal issues and streamline everyday experiences for individuals globally. By harnessing the power of artificial intelligence, I seek to catalyze positive change and contribute to the advancement of society in meaningful and tangible ways.
 
-### Projects
+👯 With over 100+ mentoring sessions on Data Science and AI, I'm also deeply engaged in Gen AI and Deep Learning research. Let's collaborate! Feel free to message me at [email](mailto:negi.sh@husky.neu.edu) for research opportunities.
 
-| Project | What it does |
-|---|---|
-| [awesome-entity-extraction](https://github.com/shivamnegi92/awesome-entity-extraction) | Curated list of LLM-era entity, relation, and structured-data extraction tools, plus runnable examples and task cards. Every link checked in CI. |
-| [awesome-multimodal-extraction](https://github.com/shivamnegi92/awesome-multimodal-extraction) | The same idea for image + text: VLMs, document AI, OCR-to-structured, multimodal NER. |
-| [practical-ai-systems](https://github.com/shivamnegi92/practical-ai-systems) | 30 offline-first, runnable AI engineering systems with tests, evaluations, and browser demos. |
-| [tinymorph](https://github.com/shivamnegi92/tinymorph) | Self-improving training data for small language models: your epoch-1 model becomes the weak oracle. No external APIs. |
-| [yesman](https://github.com/shivamnegi92/yesman) | Rules that stop AI coding agents from empty praise and "You're absolutely right!". Works across Claude Code, Cursor, Copilot, and more. |
+- 📝 I regularly write articles on [https://medium.com/@shivamnegi92](https://medium.com/@shivamnegi92)
+- 📫 How to reach me **negi.sh@husky.neu.edu**
+- 👨‍🎓 Book a mentoring call https://topmate.io/shivam_negi_data
+- Substack [AI Core Loop](https://shivamnegidata.substack.com/)
 
-### Learning from scratch
+### WorkEx
 
-[AICave](https://github.com/shivamnegi92/AICave) (Transformer, Llama, ViT/JEPA implementations) ·
-[GenAI-Playlist](https://github.com/shivamnegi92/GenAI-Playlist) ·
-[RAG_END_TO_END](https://github.com/shivamnegi92/RAG_END_TO_END) ·
-[FastAI_Pytorch](https://github.com/shivamnegi92/FastAI_Pytorch) ·
-[DeepLearningPlaylist](https://github.com/shivamnegi92/DeepLearningPlaylist)
+🚀 Currently, I serve as a Staff Data Scientist at [Walmart Claim Services](https://www.linkedin.com/company/walmart-claims), leading the charge in integrating GenAI and data science methodologies to elevate our organizational landscape. My role involves orchestrating the multi-cloud deployment, auto-monitoring, and optimization of advanced AI/ML models, including applications of Large Language Models (LLMs)- (GPT4,LLama, FlanT5 etc) in projects spanning topic modeling, Retrieval Augmented Generation (RAG), summarization, risk detection, named entity recognition, prompt engineering. 🤖
 
-### Background
+⌛️ During my tenure at Amazon, I played a pivotal role in constructing end-to-end machine learning models tailored for supply chain optimization. Additionally, I led the development of analytical infrastructure for key Amazon ventures like [Amazon Prime](https://www.amazon.com/amazonprime) and [Amazon Fresh](https://www.amazon.com/fmc/storefront?almBrandId=QW1hem9uIEZyZXNo), leveraging [AWS cloud services](https://aws.amazon.com/?nc2=h_lg) 📊. My focus extended to meticulously tracking over 100 KPIs, operating within a startup-like environment that demanded agile thinking 🚀 and rapid adaptation to evolving challenges!
 
-Staff Data Scientist at Walmart (GenAI, NER, RAG, risk detection). Previously at Amazon, building
-supply-chain ML and analytics infrastructure for Prime and Fresh on AWS. MS Information Systems,
-Northeastern University. 100+ mentoring sessions on data science and AI.
+🛠️ Moreover, I spearheaded the implementation of multiple event-driven pipelines leveraging AWS Lambda, SageMaker, S3, and other key services. This approach enabled seamless data processing and model deployment, driving efficiency and innovation within our analytics ecosystem.
 
-**Stack:** Python · PyTorch · Hugging Face · spaCy · scikit-learn · SQL · AWS · GCP · Docker
+🎓 With a Masters in Information Systems from Northeastern University, Boston, and a Bachelors from VIT University, Vellore, I engaged in impactful United Nations Research Projects at Northeastern. Employing advanced data science and statistical techniques, I analyzed migration patterns in Eastern Europe, using geolocation and macroeconomic data to inform public policy decisions.
 
-<details>
-<summary>Archive: earlier projects (2017-2025)</summary>
+Feel welcome to connect with me on [LinkedIn](https://www.linkedin.com/in/shivamnegi/) for the latest updates on my AI learning materials!
+
+### Papers & Research
 
 | Repo | Description |
 |---|---|
+| [voice-agent-eval-corpus](https://github.com/shivamnegi92/voice-agent-eval-corpus) | Companion repo to *Evaluating Real-Time Voice Agents* (arXiv:[2609.30798](https://arxiv.org/abs/2609.30798)): a verified 41-source corpus and TRG, a minimum reporting standard for voice agent evaluation, with a live [demo](https://huggingface.co/spaces/shivamnegi92/trg-voice-agent-eval) |
+| [tinymorph](https://github.com/shivamnegi92/tinymorph) | Self-improving training data for small language models via temporal weak-strong curation - your model at epoch 1 becomes the weak oracle, no external APIs needed |
 | [Cancer-Image-Classification-ViT](https://github.com/shivamnegi92/Cancer-Image-Classification-ViT) | Vision Transformer applied to cancer image classification |
-| [LSTM-RNN-over-Bitcoin-Historical-Data](https://github.com/shivamnegi92/LSTM-RNN-over-Bitcoin-Historical-Data) | LSTM predicting 30-day Bitcoin value trends |
-| [LSTM-BLSTM-based-Image-Caption-Generator-leveraging-Inception-V3](https://github.com/shivamnegi92/LSTM-BLSTM-based-Image-Caption-Generator-leveraging-Inception-V3) | Image captioning with LSTM, BLSTM, and InceptionV3 |
-| [Big-Data-and-Intelligence-Analytics](https://github.com/shivamnegi92/Big-Data-and-Intelligence-Analytics) | IBM HR attrition analysis with decision trees and Keras |
-| [SentimentPredictionML](https://github.com/shivamnegi92/SentimentPredictionML) | Sentiment prediction with classical ML |
-| [Datawarehouse-and-Tableau-PowerBI](https://github.com/shivamnegi92/Datawarehouse-and-Tableau-PowerBI) | BI reports and dashboards in Tableau and Power BI |
-| [UC-Berkeley-CS188-Intro-to-AI--Project-1-Search-in-Pacman](https://github.com/shivamnegi92/UC-Berkeley-CS188-Intro-to-AI--Project-1-Search-in-Pacman) | Search algorithms in Pacman (Berkeley CS188) |
-| [Deep-learning-Keras-Model-over-Semeion-Image-Data](https://github.com/shivamnegi92/Deep-learning-Keras-Model-over-Semeion-Image-Data) | Keras net on handwritten digit data |
-| [Prudential-Life-Insurance-Assessment--Machine-Learning](https://github.com/shivamnegi92/Prudential-Life-Insurance-Assessment--Machine-Learning) | Risk classification, classical ML |
-| [Prudential-Life-Insurance-Assessment--Neural-Net](https://github.com/shivamnegi92/Prudential-Life-Insurance-Assessment--Neural-Net) | Risk classification, neural net |
-| [World-Development-Indicator-SouthAsianCountries](https://github.com/shivamnegi92/World-Development-Indicator-SouthAsianCountries) | EDA on South Asian development indicators |
 
-</details>
+### Learning Repos & Curated Resources
+
+| Repo | Description |
+|---|---|
+| [AICave](https://github.com/shivamnegi92/AICave) | Deep learning from scratch: Transformer, Llama, ViT/JEPA implementations plus PyTorch fundamentals notebooks |
+| [GenAI-Playlist](https://github.com/shivamnegi92/GenAI-Playlist) | Fundamental GenAI projects built from scratch |
+| [RAG_END_TO_END](https://github.com/shivamnegi92/RAG_END_TO_END) | End-to-end RAG variations: chatbots, agentic RAG, Graph RAG |
+| [FastAI_Pytorch](https://github.com/shivamnegi92/FastAI_Pytorch) | fastai and PyTorch learning notebooks |
+| [awesome-entity-extraction](https://github.com/shivamnegi92/awesome-entity-extraction) | Curated, CI-verified list of LLM-era entity, relation, and structured-data extraction tools |
+| [awesome-multimodal-extraction](https://github.com/shivamnegi92/awesome-multimodal-extraction) | Curated, CI-verified list of multimodal (image + text) extraction tools: VLMs, document AI, OCR |
+| [DeepLearningPlaylist](https://github.com/shivamnegi92/DeepLearningPlaylist) | A knowledge database covering the major types of deep learning models |
+| [Datawarehouse-and-Tableau-PowerBI](https://github.com/shivamnegi92/Datawarehouse-and-Tableau-PowerBI) | Business intelligence reports and dashboards on Tableau and Power BI |
+| [Big-Data-and-Intelligence-Analytics](https://github.com/shivamnegi92/Big-Data-and-Intelligence-Analytics) | IBM HR Analytics employee attrition analysis with Decision Trees and Keras |
+| [LSTM-RNN-over-Bitcoin-Historical-Data](https://github.com/shivamnegi92/LSTM-RNN-over-Bitcoin-Historical-Data) | LSTM-based deep net predicting 30-day Bitcoin value trends |
+| [LSTM-BLSTM-based-Image-Caption-Generator-leveraging-Inception-V3](https://github.com/shivamnegi92/LSTM-BLSTM-based-Image-Caption-Generator-leveraging-Inception-V3) | Image caption generation using LSTM, BLSTM, CNN, and InceptionV3 |
+| [SentimentPredictionML](https://github.com/shivamnegi92/SentimentPredictionML) | Sentiment prediction with classical ML models |
+| [UC-Berkeley-CS188-Intro-to-AI--Project-1-Search-in-Pacman](https://github.com/shivamnegi92/UC-Berkeley-CS188-Intro-to-AI--Project-1-Search-in-Pacman) | Berkeley CS188 Intro to AI: search algorithms implemented in Pacman |
+| [Deep-learning-Keras-Model-over-Semeion-Image-Data](https://github.com/shivamnegi92/Deep-learning-Keras-Model-over-Semeion-Image-Data) | Keras deep net trained on handwritten digit image data |
+| [Prudential-Life-Insurance-Assessment--Machine-Learning](https://github.com/shivamnegi92/Prudential-Life-Insurance-Assessment--Machine-Learning) | Predictive risk-classification model, classical ML approach |
+| [Prudential-Life-Insurance-Assessment--Neural-Net](https://github.com/shivamnegi92/Prudential-Life-Insurance-Assessment--Neural-Net) | Same risk-classification problem, neural net approach |
+| [World-Development-Indicator-SouthAsianCountries](https://github.com/shivamnegi92/World-Development-Indicator-SouthAsianCountries) | Exploratory data analysis on development indicators across South Asian countries |
+
+Full activity: [github.com/shivamnegi92?tab=repositories](https://github.com/shivamnegi92?tab=repositories)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shivam_negi_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivam_negi_ai" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shivamnegi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivamnegi" height="30" width="40" /></a>
+<a href="https://medium.com/@shivamnegi92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shivamnegi92" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamnegi92&show_icons=true&locale=en&layout=compact" alt="shivamnegi92" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamnegi92&show_icons=true&locale=en" alt="shivamnegi92" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamnegi92&" alt="shivamnegi92" /></p>
